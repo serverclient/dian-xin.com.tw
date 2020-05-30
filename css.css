@@ -208,7 +208,7 @@ body{
 #menubar_contact div.unselected{
 	background-image: url(images/menuBar/contact.gif);
 }
-
+/*
 #menubar_franchise div.hover{
 	background-image: url(images/menuBar/franchise_hover.gif);
 }
@@ -220,6 +220,20 @@ body{
 #menubar_franchise div.unselected{
 	background-image: url(images/menuBar/franchise.gif);
 }
+*/
+
+#menubar_brown_suger div.hover{
+	background-image: url(images/menuBar/brown_suger_hover.gif);
+}
+
+#menubar_brown_suger div.selected{
+	background-image: url(images/menuBar/brown_suger_selected.gif);
+}
+
+#menubar_brown_suger div.unselected{
+	background-image: url(images/menuBar/brown_suger.gif);
+}
+
 
 /* index */
 
@@ -319,6 +333,15 @@ body{
 	background-repeat: repeat-y;
 	background-position: top center;	
 	width: 930px;
+	margin: auto;
+}
+
+.productBoard div.section_brown_suger{
+	background-image: url(images/productBoard/section_brown_suger.gif);
+	background-repeat: no-repeat;
+	background-position: bottom center;	
+	width: 930px;
+	height: 50px;
 	margin: auto;
 }
 
