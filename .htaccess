@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^dian\-xin\.marco\.huhu\.tw$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.dian\-xin\.marco\.huhu\.tw$
+RewriteRule ^/?$ "http\:\/\/www\.dian\-xin\.com\.tw\/" [R=301,L]
+

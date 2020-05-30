@@ -1,1 +1,1 @@
-# dian-xin.com.tw
+2020-05-30 Remove link of q-chen and add some new items.
