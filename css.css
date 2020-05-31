@@ -32,7 +32,7 @@ body{
 .webHeader{
 	width: 980px;
 	Height: 160px;
-	background-image: url(images/web/header.gif);
+	background-image: url(images/web/header.png);
 	background-repeat: no-repeat;
 	background-position: top center;
 }
@@ -337,7 +337,7 @@ body{
 }
 
 .productBoard div.section_brown_suger{
-	background-image: url(images/productBoard/section_brown_suger.gif);
+	background-image: url(images/productBoard/section_brown_suger.png);
 	background-repeat: no-repeat;
 	background-position: bottom center;	
 	width: 930px;
